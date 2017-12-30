@@ -1,0 +1,9 @@
+body {
+  background: blue;
+  color: #fff; }
+
+p {
+  color: yellow;
+  text-decoration: underline;
+  width: 300px;
+  background: lightgreen; }

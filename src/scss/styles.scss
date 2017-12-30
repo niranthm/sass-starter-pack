@@ -1,0 +1,16 @@
+$body-bg: blue;
+
+$body-copy: yellow;
+
+body{
+	background: $body-bg;
+	color: #fff;
+
+}
+
+p{
+	color: $body-copy;
+	text-decoration: underline;
+	width: 300px;
+	background: lightgreen;
+}
